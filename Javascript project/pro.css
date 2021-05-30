@@ -1,0 +1,42 @@
+ @import url(https://fonts.google.com/specimen/Mate+SC);
+* { 
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(mountains-under-mist-morning-amazing-260nw-1725825019.jpg);
+    min-height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    font-family: "Mate-SC";
+    margin: 0;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.countdown-container{
+    display:flex
+}
+
+h1{
+    font-weight:normal;
+    font-size: 4rem;
+    margin-top: 5rem;
+}
+.big-text{
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+.countdo-el {
+    text-align: center;
+}
+.countdo-el span {
+    font-size: 1.5rem;
+}
+
+
