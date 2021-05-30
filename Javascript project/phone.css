@@ -1,0 +1,32 @@
+.h1{
+    overflow: hidden;
+    flex-direction: column,center;
+}
+
+.countdown-container{
+    overflow: hidden;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.days{
+    overflow: hidden;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+.minutes{
+    overflow: hidden;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.seconds{
+    overflow: hidden;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.hours{
+    overflow: hidden;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
